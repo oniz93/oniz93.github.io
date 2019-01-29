@@ -1,4 +1,4 @@
-# https://oniz93.github.io/blog/
+# https://oniz93.github.io/
 
 I'll try to make a platform that will permit to people to publish their thoughts anonymously.<br />
 <br />
